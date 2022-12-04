@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "16881310925",
+    "firebase_url": "https://ecoplace-9cccb-default-rtdb.firebaseio.com",
+    "project_id": "ecoplace-9cccb",
+    "storage_bucket": "ecoplace-9cccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16881310925:android:766527422e28b1255edd84",
+        "android_client_info": {
+          "package_name": "com.example.mop_marketorganicproducts_WesleyZanon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16881310925-hs7d58sd1rc57l2ioc3volth6mbllaqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCieXeSte7bSGwmelekGYsg03beCsw_wtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16881310925-hs7d58sd1rc57l2ioc3volth6mbllaqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
