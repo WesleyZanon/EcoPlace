@@ -10,7 +10,7 @@ Miguel D Alessandri Faria RA: 223048
 
 
 # Funcionaliades
-### O projeto serve para localizar vendedoras de produtos organicos proximos de voce.
+### O projeto serve para localizar vendedoras de produtos Ecologicos proximos de voce.
 ### Nesse APP, o usuario podera localizar produtos de sua preferencia, podendo filtrar tipos de produtos, sua localização, e ate mesmo pesquisar os produtos.
 
 
@@ -64,4 +64,6 @@ Aqui o usurio tem que selecionar ao menos uma foto e preeencher todos os campos.
 
 ![](https://raw.githubusercontent.com/WesleyZanon/EcoPlace/master/imagens%20git/CADASTRAR%20PRODUTO.PNG?token=GHSAT0AAAAAABZY7FQACUAABDVKQC77K6TKY4L5Q6Q)
 
+## Conclusão
+Esse Aplicativo e facil e pratico para todos usarem.
 
