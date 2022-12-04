@@ -4,6 +4,7 @@ EcoPlace- aplicativo de de compras e vendas de produtos Ecologicos
 
 # Autores
 Wesley Davi Zanon Novaes RA: 190545
+
 Miguel D Alessandri Faria RA: 223048
 
 
