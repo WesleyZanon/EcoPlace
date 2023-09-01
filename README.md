@@ -68,3 +68,7 @@ Aqui o usurio tem que selecionar ao menos uma foto e preeencher todos os campos.
 ## Conclusão
 Esse Aplicativo e facil e pratico para todos usarem.
 
+## Observações
+A API do APP encontra se desabilitada, foi desenvolvida no google fire base.
+Portanto o APP só servi-rá para ilustração.
+
